@@ -3,7 +3,7 @@
 > An AI-powered engineering assistant that turns a natural-language circuit description — in **Arabic or English** — into a component list, a step-by-step wiring guide, and a rendered 2D schematic. Built with Gemini and `schemdraw`, running entirely in Google Colab.
 
 <p align="center">
-  <img src="./circuit_017d71e7.svg" alt="Generated LM7805 voltage regulator circuit with LED indicator" width="600"/>
+  <img src="./demo_circuit.svg" alt="Generated LM7805 voltage regulator circuit with LED indicator" width="600"/>
 </p>
 
 <p align="center"><em>↑ Live output for the prompt: "12V to 5V Voltage Regulator using LM7805 with LED Indicator"</em></p>
